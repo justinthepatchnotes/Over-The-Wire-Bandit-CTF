@@ -23,7 +23,7 @@ When prompted, enter the password:
 bandit0
 ```
 
-![Bandit Level 0](https://imgur.com/a/NdUtUyD)
+![Bandit Level 0](https://i.imgur.com/3aD4L3S.png)
 
 ---
 
@@ -47,6 +47,6 @@ nano readme
 
 The password for `bandit1` will be displayed in the file. Use it to log into the next level.
 
-![Bandit Level 0 → Level 1](https://imgur.com/a/mCEM9t7)
+![Bandit Level 0 → Level 1](https://i.imgur.com/07D7uQ2.png)
 
-![Another Screenshot](https://imgur.com/a/Qx31a3a)
+![Bandit Level 0 → Level 1.1](https://i.imgur.com/SzZrIYG.png)
